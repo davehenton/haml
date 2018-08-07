@@ -1,0 +1,3 @@
+plugins:
+  haml-lint:
+    enabled: true
