@@ -1,3 +1,7 @@
 plugins:
   haml-lint:
     enabled: true
+  duplication:
+    enabled: false
+  structure: 
+    enabled: false
